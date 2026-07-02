@@ -1,7 +1,7 @@
 # Typo-Detection
 1. Base URL
-   https://ai-agent-production-c82e.up.railway.app
+   https://correction-production.up.railway.app/
 2. Schemas
-   https://ai-agent-production-c82e.up.railway.app/docs
+    https://correction-production.up.railway.app/docs
  3. Open API
-    https://ai-agent-production-c82e.up.railway.app/openapi.json  
+    https://correction-production.up.railway.app/openapi.json

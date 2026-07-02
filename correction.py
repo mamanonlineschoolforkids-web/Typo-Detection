@@ -209,7 +209,7 @@ def correct_arabic(text):
             corrected_text = language_tool_python.utils.correct(corrected_text, matches)
         except Exception:
             pass
-
+    corrected_text = corrected_text.replace("ًً", "ً")
     return corrected_text
 
 
